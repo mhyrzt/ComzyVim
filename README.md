@@ -23,6 +23,6 @@ press ``esc`` then type ``:wq``
 | GO   |  CMD     | 
 |:-----|:--------:|
 |UP|``ctrl + w``+ ``k``|
-|DOWN| ``ctrl + w``+ ``k`` |
-|LEF|``ctrl + w``+ ``k`` |
-|RIGHT|``ctrl + w``+ ``k`` |
+|DOWN| ``ctrl + w``+ ``j`` |
+|LEFT|``ctrl + w``+ ``h`` |
+|RIGHT|``ctrl + w``+ ``l`` |
