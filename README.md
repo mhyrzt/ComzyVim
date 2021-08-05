@@ -11,14 +11,14 @@ sudo chmod +x ./install.sh
 ./install.sh
 ```
 ### Quic Vim Guide for cheems
-#####Opening Files:
+##### Opening Files:
 ```sh
 vim cheems.txt
 ```
-#####Closing Vim: 
+##### Closing Vim: 
 press ``esc`` then type ``:wq``
 
-####Navigation:
+##### Navigation:
 
 | GO   |  CMD     | 
 |:-----|:--------:|
