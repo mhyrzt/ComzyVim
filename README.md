@@ -1,2 +1,2 @@
 # ComzyVim
-Comfy &amp; Cozy Vim for beginners
+Comfy & Cozy Vim for Cheems 
