@@ -21,3 +21,6 @@ call plug#begin('~/.vim/plugged')
 	Plug 'git@github.com:ycm-core/YouCompleteMe.git'
 call plug#end()
 
+colorscheme gruvbox
+set background=dark
+
