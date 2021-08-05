@@ -19,8 +19,10 @@ call plug#begin('~/.vim/plugged')
 	Plug 'git@github.com:mbbill/undotree.git'
 	Plug 'git@github.com:preservim/nerdtree.git' 
 	Plug 'git@github.com:ycm-core/YouCompleteMe.git'
+	Plug 'git@github.com:vim-airline/vim-airline.git'
 call plug#end()
 
 colorscheme gruvbox
 set background=dark
+autocmd VimEnter * NERDTree | wincmd p
 
