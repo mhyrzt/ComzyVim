@@ -7,7 +7,6 @@ git clone git@github.com:mhyrzt/ComzyVim.git
 ```
 and then just simply run these 2 commands:
 ```sh
-sudo chmod +x ./install.sh
 ./install.sh
 ```
 ### Quic Vim Guide for cheems
