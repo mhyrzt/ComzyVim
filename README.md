@@ -5,11 +5,11 @@ Comfy & Cozy Vim for Cheems
 ```sh
 git clone git@github.com:mhyrzt/ComzyVim.git
 ```
-and then just simply run these 2 commands:
+and then just simply run:
 ```sh
 ./install.sh
 ```
-### Quic Vim Guide for cheems
+### Quick Vim Guide for cheems
 ##### Opening Files:
 ```sh
 vim cheems.txt
